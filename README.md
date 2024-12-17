@@ -60,4 +60,4 @@
         <li style="margin-left:9.6pt; margin-bottom:8pt; line-height:normal; padding-left:8.4pt; font-family:serif; font-size:10pt;"><span style="font-family:'Times New Roman'; font-size:11pt;">Volunteered at my local school to help with various sports days and events. (February 2013)</span></li>
     </ul>
 </div>
-<p style="bottom: 10px; right: 10px; position: absolute;"><a href="https://wordtohtml.net" target="_blank" style="font-size:11px; color: #d0d0d0;">Converted to HTML with WordToHTML.net</a></p>
+<p style="bottom: 10px; right: 10px; position: absolute;"><a href="https://wordtohtml.net" target="_blank" style="font-size:11px; color: 
